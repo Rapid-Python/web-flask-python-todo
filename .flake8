@@ -1,0 +1,2 @@
+[flake8]
+per-file-ignores= app/services/get_task.py, app/controller/todo_controller.py:E501
